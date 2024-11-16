@@ -25,7 +25,7 @@ The code has been tested on Windows 11 with an RTX 4070TI 12GB GPU. Since this p
 - **geopandas**: 0.13.2
 - **opencv-python**: 4.8.1.78
 
-## 3. Execution
+## 3. How to use
 
 Run the following scripts in sequence to reproduce the analysis:
 
