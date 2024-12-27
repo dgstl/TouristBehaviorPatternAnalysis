@@ -1,6 +1,6 @@
-# Tourist Trajectory Modeling and Fine-Grained Spatiotemporal Behavior Pattern Mining with Scene-Adaptive Slicing in Surveillance Video Environments
+# Tracking Tourist Activities and Place Behavior via Computer Vision and Video Data
 
-This GitHub repository accompanies the manuscript *Tourist Trajectory Modeling and Fine-Grained Spatiotemporal Behavior Pattern Mining with Scene-Adaptive Slicing for Inference Assistance in Surveillance Video Environments*. This study explores the spatiotemporal behavioral patterns of tourists in micro-level environments to support intelligent management and service improvements, such as optimizing destination facilities and designing routes, ultimately enhancing visitor experiences and destination reputation.
+This GitHub repository accompanies the manuscript *Tracking Tourist Activities and Place Behavior via Computer Vision and Video Data*. This study explores the spatiotemporal behavioral patterns of tourists in micro-level environments to support intelligent management and service improvements, such as optimizing destination facilities and designing routes, ultimately enhancing visitor experiences and destination reputation.
 
 ## 1. Project Structure and File Descriptions
 
