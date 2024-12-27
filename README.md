@@ -49,3 +49,4 @@ python visit_pattern_stay.py
 ## 4. Additional Resources
 - YOLO Detection Model: YOLOv8 model weights download from: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8l.pt
 - Appearance Re-Identification Model: weights/osnet_x1_0_msmt17.pt
+- Verifying video data can be accessed via this link: https://pan.baidu.com/s/10Cmu-GcD5BzMQG9QTrKpwQ?pwd=6j65.
